@@ -1,0 +1,11 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "Convert Csv File To Json Object",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mehdi Mitiche",
+  "license": "ISC"
+}
